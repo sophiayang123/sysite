@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sysite/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/sysite/static/js/main.530a669a.chunk.js",
+    "main.js.map": "/sysite/static/js/main.530a669a.chunk.js.map",
+    "runtime-main.js": "/sysite/static/js/runtime-main.84e91fce.js",
+    "runtime-main.js.map": "/sysite/static/js/runtime-main.84e91fce.js.map",
+    "static/js/2.f3adb999.chunk.js": "/sysite/static/js/2.f3adb999.chunk.js",
+    "static/js/2.f3adb999.chunk.js.map": "/sysite/static/js/2.f3adb999.chunk.js.map",
+    "static/js/3.20c06d9c.chunk.js": "/sysite/static/js/3.20c06d9c.chunk.js",
+    "static/js/3.20c06d9c.chunk.js.map": "/sysite/static/js/3.20c06d9c.chunk.js.map",
+    "index.html": "/sysite/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/sysite/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f3adb999.chunk.js.LICENSE.txt": "/sysite/static/js/2.f3adb999.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sysite/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84e91fce.js",
+    "static/js/2.f3adb999.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.530a669a.chunk.js"
+  ]
+}
